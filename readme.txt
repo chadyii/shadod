@@ -1,7 +1,8 @@
+#define UART	9600
+
 int main()
 {
 	int x;
-	int y;
-	int z = x + y;
+	char y;
 	return 0;
 }
