@@ -1,6 +1,6 @@
 #define UART	9600
 
-#define SWATCH	90000
+#define SWATCH	9
 
 int sum(int x, int y);
 
