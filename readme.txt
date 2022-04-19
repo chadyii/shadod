@@ -2,6 +2,8 @@
 
 #define SWATCH	90000
 
+int sum(int x, int y);
+
 int main()
 {
 	int x;
